@@ -1,2 +1,2 @@
 # FlightBookingApp-MERN
-Fligth Booking Management
+Flight Booking Management system using MERN stack.
